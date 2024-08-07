@@ -1,0 +1,7 @@
+DROP DATABASE IF EXISTS mydb2;
+CREATE DATABASE mydb;
+USE mydb;
+SHOW TABLES;
+DESCRIBE user;
+SELECT * FROM _prisma_migrations;
+SELECT * FROM user;
